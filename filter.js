@@ -8,6 +8,7 @@ function callback (fiveX) {
     }
 }
 
+// How to loop to create this object ?
 var object = {
     "data": {
         "fire": arr.filter(callback("fire")),
